@@ -1,1 +1,1 @@
-# UTS_PengCit
+# UTS_Pengolahan Citra
